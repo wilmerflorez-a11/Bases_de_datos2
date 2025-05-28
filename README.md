@@ -20,8 +20,7 @@ Este repositorio contiene los trabajos académicos de **Wilmer Sneyder Florez Pe
 
 Organizar y compartir el progreso académico en la materia **Base de Datos II**, incluyendo:
 
-- Modelado de datos (E-R, relacional).
-- Normalización hasta 4NF.
+
 - Scripts SQL y consultas.
 - Proyectos individuales o en grupo.
 - Apuntes de clase y documentación útil.
